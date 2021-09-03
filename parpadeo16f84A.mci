@@ -1,0 +1,20 @@
+[Project]
+Filename=C:\Users\haroldde\Documents\2021_ene_jun\TEAM_MicroCode\parpadeo16f84A.bas
+[Environment]
+CaretX=25
+CaretY=22
+Topline=3
+[Version]
+Enable=1
+Rollover=255
+Major=0
+Minor=0
+Release=0
+Build=5
+[Results]
+Visible=1
+Height=117
+View=2
+[Status]
+Message=Success : 57 program words used, 4 variable bytes used
+Image=0
